@@ -1,2 +1,2 @@
 # AndroidApp_Todo_List
- Small project with Java and Firebase
+ Small project in Android Studio with Java and Firebase
